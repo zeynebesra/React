@@ -1,9 +1,11 @@
-import Contacts from "./components/Contacts";
+import logo from "./logo.svg";
 import "./App.css";
+import User from "./components/User";
+
 function App() {
   return (
     <div className="App">
-      <Contacts />
+      <User />
     </div>
   );
 }
