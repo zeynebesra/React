@@ -27,5 +27,6 @@ context/node_modules
 realtime-colors/backend/node_modules
 realtime-colors/client/node_modules
 weather-app/node_modules
+testing/node_modules
 chat-app/backend/node_modules
 chat-app/client/node_modules
