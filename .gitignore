@@ -31,3 +31,6 @@ testing/node_modules
 chat-app/backend/node_modules
 chat-app/client/node_modules
 emoji-search/node_modules
+publishing/node_modules
+ecommerce-app/backend/node_modules
+ecommerce-app/client/node_modules
